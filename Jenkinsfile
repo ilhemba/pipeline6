@@ -3,7 +3,7 @@ pipeline {
  stage ('Example') {
  steps {
  script {
- example.greet 'Readers'
+ exemple.greet 'Readers'
  }
  }
  }
