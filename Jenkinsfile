@@ -1,4 +1,4 @@
-@Library('exemple.groovy')
+@Library(exemple.groovy)
 pipeline {
  agent none
  stages {
