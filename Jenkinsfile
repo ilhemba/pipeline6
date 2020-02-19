@@ -5,7 +5,7 @@ pipeline {
  stage ('Example') {
  steps {
  script {
- exemple.greet 'Readers'
+ example.greet 'Readers'
  }
  }
  }
