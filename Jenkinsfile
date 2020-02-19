@@ -1,4 +1,4 @@
-
+@Library('exemple')
 pipeline {
  agent none
  stages {
